@@ -1,0 +1,7 @@
+{
+  "name": "mini-crm-app",
+  "version": "1.0.0",
+  "description": "Mini CRM - lead management admin panel (localhost:4000/admin)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" }
+}
